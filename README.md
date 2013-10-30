@@ -5,7 +5,7 @@ CSCI 201 - Lab 10 with Shirley Chung, chungshi@usc.edu, chungshi; & TJ Darcy, da
 
 Wed. 12PM
 
-http://octodex.github.com/images/femalecodertocat.png
+![alt text](http://octodex.github.com/images/femalecodertocat.png "Octocat")
 
-Test
-testing
+###New Feature Under Development
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
